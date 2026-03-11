@@ -1,0 +1,5 @@
+The Python libraries to be used are:
+qiskit
+qiskit-aer
+numpy
+matplotlib
